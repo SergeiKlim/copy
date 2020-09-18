@@ -28,3 +28,5 @@ alert("Hello, world");
 </body>
 </html>
 ```
+### Education: Higher economic.
+### English level: Pre-Intermediate.
